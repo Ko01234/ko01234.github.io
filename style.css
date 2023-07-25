@@ -1,0 +1,23 @@
+body {
+background-color:#636363;
+color: #faffc9;
+padding: 10px;
+}
+#hello{
+	text-align:center;
+	background-color:#4f4f4f;
+}
+#image {
+	float: right;
+}
+#description {
+}
+
+.container {
+	display: inline
+}
+
+#content {
+	width: 70%;
+	float: left;
+}
