@@ -1,5 +1,5 @@
 body {
-background-color:#636363;
+background-color:#536999;
 color: #faffc9;
 padding: 10px;
 }
@@ -8,14 +8,9 @@ padding: 10px;
 	background-color:#4f4f4f;
 }
 #image {
-	float: right;
-}
-#description {
+	float:right;
 }
 
-.container {
-	display: inline
-}
 
 #content {
 	width: 70%;
